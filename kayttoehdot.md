@@ -4,7 +4,7 @@ Käyttäjät: Normaalikäyttäjät, ylläpitäjät
 
 Laukaisija: (sivun avaaminen)
 
-----------------------------------------------------------
+-
 
 Käyttötapaus: Ylläpitäjänä sisäänkirjautuminen
 
